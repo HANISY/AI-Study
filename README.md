@@ -2,7 +2,7 @@
 - [x] [ch01](https://github.com/HANISY/AI-Study/blob/main/ch01.ipynb) 나의 첫 머신러닝 
 - [x] [ch02](https://github.com/HANISY/AI-Study/blob/main/ch02.ipynb) 데이터 다루기 
 - [x] [ch03](https://github.com/HANISY/AI-Study/blob/main/ch03.ipynb) 회귀 알고리즘과 모델 규제
-- [ ] ch04. 다양한 분류 알고리즘```2025-12-02```
+- [ ] [ch04](https://github.com/HANISY/AI-Study/blob/main/ch04.ipynb) 다양한 분류 알고리즘
 - [ ] ch05. 트리 알고리즘```2025-12-02``` ```2025-12-09```
 - [ ] ch06. 비지도학습```2025-12-09```
 - [ ] ch07. 인공신경망
