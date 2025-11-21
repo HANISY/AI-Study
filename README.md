@@ -4,7 +4,7 @@
 - [x] [ch03](https://github.com/HANISY/AI-Study/blob/main/Ch03.ipynb) 회귀 알고리즘과 모델 규제
 - [x] [ch04](https://github.com/HANISY/AI-Study/blob/main/Ch04.ipynb) 다양한 분류 알고리즘
 - [x] [ch05](https://github.com/HANISY/AI-Study/blob/main/Ch05.ipynb) 트리 알고리즘
-- [ ] ch06. 비지도학습```2025-12-09```
+- [x] [ch06](https://github.com/HANISY/AI-Study/blob/main/Ch06.ipynb) 비지도학습
 - [ ] ch07. 인공신경망
 - [ ] ch08. 이미지를 위한 인공 신경망
 - [ ] ch09. 텍스트를 위한 인공 신경망
