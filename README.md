@@ -6,7 +6,7 @@
 - [x] [ch05](https://github.com/HANISY/AI-Study/blob/main/Ch05.ipynb) 트리 알고리즘
 - [x] [ch06](https://github.com/HANISY/AI-Study/blob/main/Ch06.ipynb) 비지도학습
 - [x] [ch07](https://github.com/HANISY/AI-Study/blob/main/Ch07.ipynb) 인공신경망
-- [x] [ch07-pytorch](https://github.com/HANISY/AI-Study/blob/main/Ch07_pytorch.ipynb) 파이토치로 인공신경망 만들기
+- [x] [ch07-pytorch](https://github.com/HANISY/AI-Study/blob/main/Ch07-pytorch.ipynb) 파이토치로 인공신경망 만들기
 - [ ] ch08. 이미지를 위한 인공 신경망
 - [ ] ch09. 텍스트를 위한 인공 신경망
 - [ ] ch10. 언어 모델을 위한 신경망
