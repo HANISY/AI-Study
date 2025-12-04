@@ -28,11 +28,11 @@
 2. Standard Error (표준 오차): 해당 특성의 변동성을 나타내는 표준 오차
 3. Worst (최대/최악): 해당 특성의 가장 큰(최악의) 값. 이는 종양의 가장 공격적인 특징을 반영
 
-&nbsp;
-
 ## 목표
 
 본 프로젝트는 머신러닝 기법을 활용하여 높은 예측 성능을 가진 진단 모델을 구현하고, 나아가 진단 결과에 결정적 영향을 미치는 주요 변수를 도출하는 것을 목표로 합니다. 
+
+## 결과
 
 <img src="https://github.com/HANISY/AI-Study/blob/main/Projects/01-breastcancer/breastcancer_result.png?raw=true">
 
