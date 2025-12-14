@@ -9,3 +9,5 @@
 - [x] [ch08](https://github.com/HANISY/AI-Study/blob/main/Hongong/Ch08.ipynb) 이미지를 위한 인공 신경망
 - [x] [ch09](https://github.com/HANISY/AI-Study/blob/main/Hongong/Ch09.ipynb) 텍스트를 위한 인공 신경망
 - [x] [ch10](https://github.com/HANISY/AI-Study/blob/main/Hongong/Ch10.ipynb) 언어 모델을 위한 신경망
+
+<img src='https://github.com/HANISY/AI-Study/blob/main/img/CERTIFICATION.jpg?raw=true'>
