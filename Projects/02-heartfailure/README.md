@@ -28,6 +28,6 @@
 
 ## 결과
 
-<img src="https://github.com/HANISY/AI-Study/blob/main/Projects/01-breastcancer/HeartFailure_result.jpg?raw=true">
+<img src="https://github.com/HANISY/AI-Study/blob/main/Projects/02-heartfailure/HeartFailure_result.jpg?raw=true">
 
-💻 [전체 코드 확인](https://github.com/HANISY/AI-Study/blob/main/Projects/01-breastcancer/HeartFailure.ipynb)
+💻 [전체 코드 확인](https://github.com/HANISY/AI-Study/blob/main/Projects/02-heartfailure/HeartFailure.ipynb)
